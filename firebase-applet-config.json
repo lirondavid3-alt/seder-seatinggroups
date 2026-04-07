@@ -1,10 +1,9 @@
 {
-  "projectId": "classroomseating-master",
-  "appId": "1:822531640726:web:d841920e0081a81939e1b7",
-  "apiKey": "AIzaSyBCoYlLLNLQ3YsicoPoOarAWP7cjK1Ok9I",
-  "authDomain": "classroomseating-master.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-5bc81c7b-4dde-4502-8344-b9d36d169175",
-  "storageBucket": "classroomseating-master.firebasestorage.app",
-  "messagingSenderId": "822531640726",
-  "measurementId": ""
+  "apiKey": "AIzaSyAMBm0G6eF04rammDT7kj7gYNSL7LMLkhY",
+  "authDomain": "seder-seatinggroups-389ef.firebaseapp.com",
+  "projectId": "seder-seatinggroups-389ef",
+  "storageBucket": "seder-seatinggroups-389ef.firebasestorage.app",
+  "messagingSenderId": "297994218676",
+  "appId": "1:297994218676:web:87b1ae3b7c88e7ede7bbe1",
+  "measurementId": "G-4JDZ1FG656"
 }
