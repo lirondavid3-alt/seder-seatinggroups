@@ -26,7 +26,8 @@ const ADMIN_EMAIL = "lirondavid3@gmail.com";
 const checkIfUserAllowed = async (email: string): Promise<boolean> => {
     const q = query(collection(db, "allowedUsers"), where("email", "==", email.toLowerCase()));
     const snapshot = await getDocs(q);
-    return !snapshot.empty;
+console.log("checkIfUserAllowed result:", snapshot.empty, "for email:", email);
+return !snapshot.empty;
 };
 const MainHeader: React.FC<{ 
     user: User | null; 
